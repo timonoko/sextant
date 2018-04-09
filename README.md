@@ -1,9 +1,9 @@
 # sextant
-Turbo Pascal navigational aids that save my life in 1990.
+Turbo Pascal navigational aids that saved my life in 1990.
 
 Sextant.pas worked in Atari Portfolio pocket computer. I had crude self-coded maps (like Helsinki.map) and after measuring sun's angle with sextant, this program draw a line perpendicular to the sun. If you waited a bit, you could acquire another line. Where those lines crossed that is where you were in the map. With several measurements the errors evened out and you could be quite sure within kilometer or so.
 
-This (from flickr) is about the "Artificial Horizon"-issue I learned from TV:
+This (from flickr) is also about the "Artificial Horizon"-issue I learned from TV:
 
 I had $50 plastic sextant. I made a program in my pocket computer (Atari Portfolio) which automatically showed your position on a map. Realized however that sextant is useless if there is no horizon visible in direction of the sun. I needed "artificial horizon" but it was $1000. Too expensive. Then I saw the movie about Nansen crossing the Greenland. All he had was a bottle of mercury. He simply measured the angle between the sun and its reflection. I felt soo stupid.
 
