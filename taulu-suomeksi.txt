@@ -1,0 +1,15 @@
+Taulu.pas onkin mielenkiintoinen. Se tekee taulukon, jossa on auringon
+korkeus tunnin välein kuukauden ajan. Sen voi tulostaa paperille. Sen
+jälkeen taskutietokonetta ei tarvita.
+
+Sanotaan nyt esimerkiksi että haluamme eksyä Tampereen
+Näsitorniin(tms?). Teemme taulukon tuohon kohteeseen. Ja olemme
+lappeenrannassa. Mittaamme auringon korkeuden. Jos aurinko on
+korkeammalla kuin Näsitornissä tuolloin, olemme lähempänä aurinkoa
+kuin tuo paikka. Meidän kannattaa siis kävellä auringosta poispäin. Ja
+toisinpäin. Teemme tätä tunnin välein. Kulku on mutkaista, mutta
+oikeansuuntaista.
+
+Jos aurinko on samalla korkeudella, on täsmälleen kaksi suuntaa joihin
+suunnistaa. Aikaisemmista mittauksista voidaan päätellä kumpi suunta
+on oikea.
