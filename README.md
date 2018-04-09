@@ -12,3 +12,5 @@ Then I started paddling from Vancouver city to the west in 1990. I did not under
 About 80 km between those places. But I was doing it against tides averaging less than 10 km per day.
     
 BTW. George Vancouver was also stuck for weeks at the same stretch of Johnstone Strait. The devilish tide current appeared to be totally random and followed none of the god-given rules and laws.
+
+(Looks like the OBS.BAT is the starting point)
