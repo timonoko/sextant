@@ -14,3 +14,5 @@ About 80 km between those places. But I was doing it against tides averaging les
 BTW. George Vancouver was also stuck for weeks at the same stretch of Johnstone Strait. The devilish tide current appeared to be totally random and followed none of the god-given rules and laws.
 
 (Looks like the OBS.BAT is the main starting point)
+
+Taulu.pas makes a table of hourly sun angle for a month. When printed, It is a simple navigational aid, which requires no computer. If the sun is lower than in the paper, you should head towards the sun and vice versa. (Interface in Finnish)
