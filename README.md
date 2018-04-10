@@ -9,8 +9,6 @@ I had $50 plastic sextant. I made a program in my pocket computer (Atari Portfol
 
 Then I started paddling from Vancouver city to the west in 1990. I did not understand them tides. I did not know you can get pretabulated tables. I was paddling against tides most of the time. Somewhere between Kelsey Bay and Telegraph Cove there was 2 weeks period of fog and rain. I totally lost it. I was running out of food. I decided to turn back to Kelsey. But then the setting sun peaked out and I was able get my longitude. I was 3 kilometers from Telegraph cove. Paddling back would have been a suicide.
  
-About 80 km between those places. But I was doing it against tides averaging less than 10 km per day.
-    
 BTW. George Vancouver was also stuck for weeks at the same stretch of Johnstone Strait. The devilish tide current appeared to be totally random and followed none of the god-given rules and laws.
 
 (Looks like the OBS.BAT is the main starting point)
