@@ -1,3 +1,4 @@
+<img src= kuva151.png >
 # sextant
 Turbo Pascal navigational aids that saved my life in 1991.
 
