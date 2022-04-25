@@ -4,7 +4,7 @@
 
 Turbo Pascal navigational aids that saved my life in 1991.
 
-Sextant.pas worked in Atari Portfolio pocket computer. I had crude self-coded maps (like Helsinki.map) and after measuring sun's angle with sextant, this program drew a line perpendicular to the sun. If you waited a bit, you could acquire another line. Where those lines crossed that is where you were in the map. With several measurements the errors evened out and you could be quite sure within kilometer or so.
+Sextant.pas worked in Atari Portfolio pocket computer. I had crude self-coded maps (like Helsinki.map) and after measuring sun's angle with sextant, this program drew a line perpendicular to the sun. If you waited a bit, you could acquire another line. Where those lines crossed that is where you were on the map. With several measurements the errors evened out and you could be quite sure within kilometer or so.
 
 This is also about the "Artificial Horizon"-issue I learned from TV:
 
