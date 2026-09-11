@@ -19,3 +19,5 @@ Looks like the OBS.BAT is the main starting point
 Taulu.pas makes a table of hourly sun angle for a month. When printed, It is a simple navigational aid, which requires no computer. If the sun is lower than in the paper, you should head towards the sun and vice versa. (Interface in Finnish)
 
 Me also has a video of this trip: https://youtu.be/SyRy2ThSIDs?si=ZggwODBgG-FKXYsR
+
+Atari Portfolio: https://oldcomputers.net/portfolio.html
